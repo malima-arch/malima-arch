@@ -29,7 +29,7 @@ O projeto representa minha primeira experiência prática com programação, ver
 
 ## 🎯 Objetivo profissional
 
-Transformar conhecimento em projetos reais e acompanhar minha evolução ao longo da minha transição para tecnologia.
+Busco desenvolver meus conhecimentos em tecnologia por meio de projetos práticos, aprendizado contínuo e primeiras experiências na área de desenvolvimento de sftware.
 
 ---
 
