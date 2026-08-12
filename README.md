@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Maria Eduarda
 
-<!--
-**malima-arch/malima-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software em transição de carreira para a área de tecnologia.
 
-Here are some ideas to get you started:
+Sou formada em Fisioterapia e estou construindo minha trajetória em tecnologia por meio da graduação, estudos práticos e desenvolvimento de projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+
+- 🐍 Python
+- ☕ Java
+- 🔧 Git e GitHub
+- 💻 Visual Studio Code
+
+## 🚀 Projeto em destaque
+
+### PhysioCare
+
+Sistema de gerenciamento de pacientes desenvolvido em Python como projeto acadêmico.
+
+O projeto representa minha primeira experiência prática com programação, versionamento de código e desenvolvimento de software.
+
+## 📚 Atualmente estudando
+
+- Lógica de programação
+- Python
+- Java
+- Git e GitHub
+- Fundamentos de Engenharia de Software
+
+## 🎯 Objetivo profissional
+
+Transformar conhecimento em projetos reais e acompanhar minha evolução ao longo da minha transição para tecnologia.
+
+---
+
+⭐ Construindo minha carreira em tecnologia, um projeto de cada vez.
